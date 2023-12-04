@@ -18,6 +18,7 @@
 РЕШЕНИЕ
 
 Вы находитесь в созданном репозитории 
+[АЛГОРИТМ.pdf](https://github.com/Aleksandr214/-/files/13545358/default.pdf)
 Блок-схема алгоритма:
-[АЛГОРИТМ.pdf](https://github.com/Aleksandr214/-/files/13545236/default.pdf)
+
 
