@@ -21,4 +21,3 @@
 Блок-схема алгоритма:
 ![АЛГОРИТМ.pdf] (https://github.com/Aleksandr214/-/files/13545358/default.pdf)
 
-
