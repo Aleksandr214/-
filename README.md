@@ -19,5 +19,5 @@
 
 Вы находитесь в созданном репозитории 
 Блок-схема алгоритма:
-![блок схема](
-[АЛГОРИТМ.pdf](https://github.com/Aleksandr214/-/files/13545171/default.pdf)
+[АЛГОРИТМ.pdf](https://github.com/Aleksandr214/-/files/13545236/default.pdf)
+
